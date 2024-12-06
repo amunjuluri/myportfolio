@@ -5,7 +5,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const testimonials = [
     {
         quote: "Consistently delivered high-quality work and showed great attention to detail.",
-        author: "Srujan Landeri",
+        author: "Srujan Lander",
         company: "Upcoming SDE at F5 Networks"
     }
 ];
@@ -52,7 +52,7 @@ export default function WorkGrid() {
                     <ul className="space-y-3">
                         <li className="text-gray-300 flex items-start gap-2">
                             <span className="text-gray-500 mt-1.5">•</span>
-                            Developed and maintained the clinic's web presence
+                            Developed and maintained the clinic&apos;s web presence
                         </li>
                         <li className="text-gray-300 flex items-start gap-2">
                             <span className="text-gray-500 mt-1.5">•</span>
@@ -74,7 +74,7 @@ export default function WorkGrid() {
                     <h2 className="text-xl font-semibold mb-6">Testimonials</h2>
                     
                     <div className="relative">
-                        <div className="absolute -left-2 top-0 text-4xl text-gray-700">"</div>
+                        <div className="absolute -left-2 top-0 text-4xl text-gray-700">&apos;</div>
                         <div className="relative min-h-[150px]">
                             <blockquote 
                                 className="pl-6 relative transition-opacity duration-500"

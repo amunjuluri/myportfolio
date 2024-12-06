@@ -1,7 +1,7 @@
 "use client"
 import Image from 'next/image'
 import { useEffect, useState } from 'react'
-import { Github, Users, GitFork, Star, ExternalLink } from 'lucide-react'
+import { Github, Users, ExternalLink } from 'lucide-react'
 
 interface GitHubStats {
     followers: number;
