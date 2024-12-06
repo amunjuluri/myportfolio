@@ -46,7 +46,7 @@ export default function WorkGrid() {
                     </div>
 
                     <div className="mb-4 text-gray-400 text-sm">
-                        <span>2023 - Present</span>
+                        <span>2024</span>
                     </div>
 
                     <ul className="space-y-3">
