@@ -5,7 +5,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const testimonials = [
     {
         quote: "Consistently delivered high-quality work and showed great attention to detail.",
-        author: "Srujan Lander",
+        author: "Srujan Landeri",
         company: "Upcoming SDE at F5 Networks"
     }
 ];
